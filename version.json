@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "url": "https://github.com/YOUR_USER/YOUR_REPO/releases/latest",
-  "notes": "• New: multi-server panes\n• Fixes and improvements",
-  "minVersion": "1.0.0"
+  "notes": "• New: multi-server panes\n• Fixes and improvements\n•Xbox streaming red boxs coming soon",
+  "minVersion": "1.0.1"
 }
