@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.2",
   "url": "https://raw.githubusercontent.com/CyngKnightv1/cyng-auto-tool-updates/refs/heads/main/version.json",
   "notes": "• New: multi-server panes\n• Fixes and improvements\n• Xbox streaming red boxs coming soon",
-  "minVersion": "1.0.1"
+  "minVersion": "1.0.2"
 }
